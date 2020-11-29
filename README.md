@@ -33,4 +33,4 @@ $ git remote remove origin
 
 ---
 
-#### Shape with ❤ by @Anshul1507.
+#### Shape with ❤ by @kushjaggi.
