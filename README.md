@@ -11,9 +11,6 @@
 📙 Styled with Space animations\
 📙 Simple in editing
 
-To view a demo example, [Click Here](http://anshul1507.tech/animated-portfolio/) <p>
-To view a another demo example, [Click Here](http://anshul1507.tech/simple-portfolio/)
-
 ---
 
 ### Getting Started 🚀
@@ -35,4 +32,4 @@ $ git remote remove origin
 
 ---
 
-#### Shape with ❤ by @Anshul1507.
+#### Shape with ❤ by @kushjaggi.
