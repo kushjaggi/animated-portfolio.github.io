@@ -1,4 +1,4 @@
-## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/anshul1507/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/anshul1507/animated-portfolio)
+## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/kushjaggi/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/kushjaggi/animated-portfolio)
 
 #### _Read this in [Portuguese-(BR)](translations/README.pt_br.md)._
 
