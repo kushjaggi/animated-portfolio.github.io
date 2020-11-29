@@ -1,4 +1,4 @@
-## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/kushjaggi/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/kushjaggi/animated-portfolio)
+## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/anshul1507/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/anshul1507/animated-portfolio)
 
 #### _Read this in [Portuguese-(BR)](translations/README.pt_br.md)._
 
@@ -11,6 +11,8 @@
 📙 Styled with Space animations\
 📙 Simple in editing
 
+To view a demo example, [Click Here](http://anshul1507.tech/animated-portfolio/) <p>
+To view a another demo example, [Click Here](http://anshul1507.tech/simple-portfolio/)
 
 ---
 
@@ -33,4 +35,4 @@ $ git remote remove origin
 
 ---
 
-#### Shape with ❤ by @kushjaggi.
+#### Shape with ❤ by @Anshul1507.
