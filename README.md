@@ -21,7 +21,7 @@ OR
 
 ```
 # Clone this repository
-$ git clone https://github.com/Anshul1507/animated-portfolio.git
+$ git clone https://github.com/kushjaggi/animated-portfolio.git
 
 # Go into the repository
 $ cd animated-portfolio
