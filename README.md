@@ -1,7 +1,5 @@
 ## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/kushjaggi/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/kushjaggi/animated-portfolio)
 
-#### _Read this in [Portuguese-(BR)](translations/README.pt_br.md)._
-
 ### A Sample Portfolio template for Developers!
 
 ### Features
